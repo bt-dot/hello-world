@@ -1,6 +1,6 @@
 """
 Our first Python test program.
-Team members: Bruce Tang, Danny Little, August Wadlington
+Team members: August Wadlington, Bruce Tang, Danny Little
 """
 
 def main():
