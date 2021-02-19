@@ -20,7 +20,7 @@ def main():
             misfires += 1
     print(my_cool_variable)
     print("Misses: ", misfires)
-    if misfires == 12:
+    if misfires == 0:
         print("Are you cheating?")
 
 if __name__ == "__main__":
